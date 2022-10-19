@@ -1,4 +1,4 @@
-## Crud em PHP
+## PHP Crud
 
 The table is filled with data from the database created in MySQL and it is possible to change the data through the modal that will open by clicking on the desired field, thus making it possible to add, update and delete.
 
